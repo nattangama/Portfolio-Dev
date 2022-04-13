@@ -197,7 +197,7 @@ body {
     }
     .information-image {
         display: none
-        border-radius: 50%;
+        border-radius: 100%;
     }
     .information .person {
         width: 100%
