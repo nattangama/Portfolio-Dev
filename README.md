@@ -1,6 +1,6 @@
 # Portfolio-Dev
 
-## Meu primeiro porfolio feito em:
+## Meu primeiro portfolio feito em:
 
 * CSS
 * SCSS
