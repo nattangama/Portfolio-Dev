@@ -78,6 +78,7 @@ body {
 
         &-image {
             display: none;
+            border-radius: 50%;
         }
 
         .person {
@@ -221,7 +222,7 @@ body {
         }
     }
 
-    #servicos {
+    #Areas {
         .services {
             display: flex;
             justify-content: center;
